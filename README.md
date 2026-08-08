@@ -74,7 +74,6 @@ Python was used for:
 ## 📁 Project Files
 
 - `Employee_HR_Analytics_Python.ipynb` – Python analysis notebook
-- `Employee_HR_Dashboard.pbix` – Power BI dashboard
 - `dashboard.png` – Dashboard preview
 
 ## 👩‍💻 Author
